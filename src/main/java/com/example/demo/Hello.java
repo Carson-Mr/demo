@@ -6,4 +6,6 @@ package com.example.demo;
  * @Description:
  */
 public class Hello {
+    private String userName;
+    private String pwd;
 }
