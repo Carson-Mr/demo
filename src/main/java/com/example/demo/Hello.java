@@ -8,4 +8,6 @@ package com.example.demo;
 public class Hello {
     private String userName;
     private String pwd;
+
+    private String sex;
 }
